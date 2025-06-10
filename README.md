@@ -1,1 +1,0 @@
-# vet-box-app

@@ -1,0 +1,11 @@
+[
+  {
+    "id": 204429,
+    "nome": "Ronaldo ",
+    "email": "ronaldo@gmail.com",
+    "telefone": "0000000000",
+    "senha": "$2b$10$JVX6IM64eElsIQFM1nS.T.G0O0t23r963PaQxS5Nwh/oiSTA829oK",
+    "dados": {},
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjA0NDI5LCJpYXQiOjE3NDk1ODYwODZ9.n4FoM2fdW_vhqcTwD4eHZTEEHV3IDolitlJ8vNRUggU"
+  }
+]

@@ -65,7 +65,7 @@ router.post("/create", authLimiter, (req, res) => {
             senha: senha,
             dados: {}
         }; 
-        userData.token = jwt.sign({ id: userData.id }, "SECRET_KEY", process.env.JWT_SECRET, {
+        userData.token = jwt.sign({ id: userData.id }, process.env.JWT_SECRET, {
             expiresIn: "1h" // Define o tempo de expiração do token
 });
         const salt = bcrypt.genSaltSync(10);
